@@ -1,0 +1,8 @@
+{
+    "file_name": "base_teste",
+    "file_path": "app/data",
+    "file_extension": "txt",
+    "file_headers": ["cpf"],
+    "schema": "public",
+    "table_name": "base_teste"
+}
